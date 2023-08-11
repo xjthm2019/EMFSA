@@ -3,7 +3,7 @@ The repository of EMFSA, a emoji-based multi-feature fusing sentiment analysis m
 
 #### Datasets
 
-All the datasets we used can be found in [./data](https://github.com/zdxx123/EMFSA/tree/main/data)
+All the datasets we used can be found in [./data](https://github.com/zdxx123/EMFSA/tree/main/data)，but because the limit of file size, we don't upload the EmojifyData-EN dataset, whose other access method will be given below. 
 
 We got these datasets from:
 
